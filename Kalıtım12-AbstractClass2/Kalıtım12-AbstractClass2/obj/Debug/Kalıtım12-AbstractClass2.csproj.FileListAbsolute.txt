@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Kalıtım12-AbstractClass2\Kalıtım12-AbstractClass2\bin\Debug\Kalıtım12-AbstractClass2.exe.config
+C:\Users\hp\source\repos\Kalıtım12-AbstractClass2\Kalıtım12-AbstractClass2\bin\Debug\Kalıtım12-AbstractClass2.exe
+C:\Users\hp\source\repos\Kalıtım12-AbstractClass2\Kalıtım12-AbstractClass2\bin\Debug\Kalıtım12-AbstractClass2.pdb
+C:\Users\hp\source\repos\Kalıtım12-AbstractClass2\Kalıtım12-AbstractClass2\obj\Debug\Kalıtım12-AbstractClass2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Kalıtım12-AbstractClass2\Kalıtım12-AbstractClass2\obj\Debug\Kalıtım12_AbstractClass2.Form1.resources
+C:\Users\hp\source\repos\Kalıtım12-AbstractClass2\Kalıtım12-AbstractClass2\obj\Debug\Kalıtım12_AbstractClass2.Properties.Resources.resources
+C:\Users\hp\source\repos\Kalıtım12-AbstractClass2\Kalıtım12-AbstractClass2\obj\Debug\Kalıtım12-AbstractClass2.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Kalıtım12-AbstractClass2\Kalıtım12-AbstractClass2\obj\Debug\Kalıtım12-AbstractClass2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Kalıtım12-AbstractClass2\Kalıtım12-AbstractClass2\obj\Debug\Kalıtım12-AbstractClass2.exe
+C:\Users\hp\source\repos\Kalıtım12-AbstractClass2\Kalıtım12-AbstractClass2\obj\Debug\Kalıtım12-AbstractClass2.pdb

@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Kalıtım14-Interface-Odev\Kalıtım14-Interface-Odev\bin\Debug\Kalıtım14-Interface-Odev.exe.config
+C:\Users\hp\source\repos\Kalıtım14-Interface-Odev\Kalıtım14-Interface-Odev\bin\Debug\Kalıtım14-Interface-Odev.exe
+C:\Users\hp\source\repos\Kalıtım14-Interface-Odev\Kalıtım14-Interface-Odev\bin\Debug\Kalıtım14-Interface-Odev.pdb
+C:\Users\hp\source\repos\Kalıtım14-Interface-Odev\Kalıtım14-Interface-Odev\obj\Debug\Kalıtım14-Interface-Odev.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Kalıtım14-Interface-Odev\Kalıtım14-Interface-Odev\obj\Debug\Kalıtım14_Interface_Odev.Form1.resources
+C:\Users\hp\source\repos\Kalıtım14-Interface-Odev\Kalıtım14-Interface-Odev\obj\Debug\Kalıtım14_Interface_Odev.Properties.Resources.resources
+C:\Users\hp\source\repos\Kalıtım14-Interface-Odev\Kalıtım14-Interface-Odev\obj\Debug\Kalıtım14-Interface-Odev.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Kalıtım14-Interface-Odev\Kalıtım14-Interface-Odev\obj\Debug\Kalıtım14-Interface-Odev.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Kalıtım14-Interface-Odev\Kalıtım14-Interface-Odev\obj\Debug\Kalıtım14-Interface-Odev.exe
+C:\Users\hp\source\repos\Kalıtım14-Interface-Odev\Kalıtım14-Interface-Odev\obj\Debug\Kalıtım14-Interface-Odev.pdb

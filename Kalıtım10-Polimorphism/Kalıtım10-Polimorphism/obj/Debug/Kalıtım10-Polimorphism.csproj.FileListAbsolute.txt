@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Kalıtım10-Polimorphism\Kalıtım10-Polimorphism\bin\Debug\Kalıtım10-Polimorphism.exe.config
+C:\Users\hp\source\repos\Kalıtım10-Polimorphism\Kalıtım10-Polimorphism\bin\Debug\Kalıtım10-Polimorphism.exe
+C:\Users\hp\source\repos\Kalıtım10-Polimorphism\Kalıtım10-Polimorphism\bin\Debug\Kalıtım10-Polimorphism.pdb
+C:\Users\hp\source\repos\Kalıtım10-Polimorphism\Kalıtım10-Polimorphism\obj\Debug\Kalıtım10-Polimorphism.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Kalıtım10-Polimorphism\Kalıtım10-Polimorphism\obj\Debug\Kalıtım10_Polimorphism.Form1.resources
+C:\Users\hp\source\repos\Kalıtım10-Polimorphism\Kalıtım10-Polimorphism\obj\Debug\Kalıtım10_Polimorphism.Properties.Resources.resources
+C:\Users\hp\source\repos\Kalıtım10-Polimorphism\Kalıtım10-Polimorphism\obj\Debug\Kalıtım10-Polimorphism.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Kalıtım10-Polimorphism\Kalıtım10-Polimorphism\obj\Debug\Kalıtım10-Polimorphism.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Kalıtım10-Polimorphism\Kalıtım10-Polimorphism\obj\Debug\Kalıtım10-Polimorphism.exe
+C:\Users\hp\source\repos\Kalıtım10-Polimorphism\Kalıtım10-Polimorphism\obj\Debug\Kalıtım10-Polimorphism.pdb

@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Kalıtım13-Interface\Kalıtım13-Interface\bin\Debug\Kalıtım13-Interface.exe.config
+C:\Users\hp\source\repos\Kalıtım13-Interface\Kalıtım13-Interface\bin\Debug\Kalıtım13-Interface.exe
+C:\Users\hp\source\repos\Kalıtım13-Interface\Kalıtım13-Interface\bin\Debug\Kalıtım13-Interface.pdb
+C:\Users\hp\source\repos\Kalıtım13-Interface\Kalıtım13-Interface\obj\Debug\Kalıtım13-Interface.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Kalıtım13-Interface\Kalıtım13-Interface\obj\Debug\Kalıtım13_Interface.Form1.resources
+C:\Users\hp\source\repos\Kalıtım13-Interface\Kalıtım13-Interface\obj\Debug\Kalıtım13_Interface.Properties.Resources.resources
+C:\Users\hp\source\repos\Kalıtım13-Interface\Kalıtım13-Interface\obj\Debug\Kalıtım13-Interface.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Kalıtım13-Interface\Kalıtım13-Interface\obj\Debug\Kalıtım13-Interface.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Kalıtım13-Interface\Kalıtım13-Interface\obj\Debug\Kalıtım13-Interface.exe
+C:\Users\hp\source\repos\Kalıtım13-Interface\Kalıtım13-Interface\obj\Debug\Kalıtım13-Interface.pdb

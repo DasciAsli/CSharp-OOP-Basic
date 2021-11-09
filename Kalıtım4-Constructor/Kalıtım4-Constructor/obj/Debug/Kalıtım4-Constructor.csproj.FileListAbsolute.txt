@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Kalıtım4-Constructor\Kalıtım4-Constructor\bin\Debug\Kalıtım4-Constructor.exe.config
+C:\Users\hp\source\repos\Kalıtım4-Constructor\Kalıtım4-Constructor\bin\Debug\Kalıtım4-Constructor.exe
+C:\Users\hp\source\repos\Kalıtım4-Constructor\Kalıtım4-Constructor\bin\Debug\Kalıtım4-Constructor.pdb
+C:\Users\hp\source\repos\Kalıtım4-Constructor\Kalıtım4-Constructor\obj\Debug\Kalıtım4-Constructor.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Kalıtım4-Constructor\Kalıtım4-Constructor\obj\Debug\Kalıtım4_Constructor.Form1.resources
+C:\Users\hp\source\repos\Kalıtım4-Constructor\Kalıtım4-Constructor\obj\Debug\Kalıtım4_Constructor.Properties.Resources.resources
+C:\Users\hp\source\repos\Kalıtım4-Constructor\Kalıtım4-Constructor\obj\Debug\Kalıtım4-Constructor.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Kalıtım4-Constructor\Kalıtım4-Constructor\obj\Debug\Kalıtım4-Constructor.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Kalıtım4-Constructor\Kalıtım4-Constructor\obj\Debug\Kalıtım4-Constructor.exe
+C:\Users\hp\source\repos\Kalıtım4-Constructor\Kalıtım4-Constructor\obj\Debug\Kalıtım4-Constructor.pdb

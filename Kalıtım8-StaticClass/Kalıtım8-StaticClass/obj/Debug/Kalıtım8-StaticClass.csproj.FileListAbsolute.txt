@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Kalıtım8-StaticClass\Kalıtım8-StaticClass\bin\Debug\Kalıtım8-StaticClass.exe.config
+C:\Users\hp\source\repos\Kalıtım8-StaticClass\Kalıtım8-StaticClass\bin\Debug\Kalıtım8-StaticClass.exe
+C:\Users\hp\source\repos\Kalıtım8-StaticClass\Kalıtım8-StaticClass\bin\Debug\Kalıtım8-StaticClass.pdb
+C:\Users\hp\source\repos\Kalıtım8-StaticClass\Kalıtım8-StaticClass\obj\Debug\Kalıtım8-StaticClass.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Kalıtım8-StaticClass\Kalıtım8-StaticClass\obj\Debug\Kalıtım8_StaticClass.Form1.resources
+C:\Users\hp\source\repos\Kalıtım8-StaticClass\Kalıtım8-StaticClass\obj\Debug\Kalıtım8_StaticClass.Properties.Resources.resources
+C:\Users\hp\source\repos\Kalıtım8-StaticClass\Kalıtım8-StaticClass\obj\Debug\Kalıtım8-StaticClass.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Kalıtım8-StaticClass\Kalıtım8-StaticClass\obj\Debug\Kalıtım8-StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Kalıtım8-StaticClass\Kalıtım8-StaticClass\obj\Debug\Kalıtım8-StaticClass.exe
+C:\Users\hp\source\repos\Kalıtım8-StaticClass\Kalıtım8-StaticClass\obj\Debug\Kalıtım8-StaticClass.pdb

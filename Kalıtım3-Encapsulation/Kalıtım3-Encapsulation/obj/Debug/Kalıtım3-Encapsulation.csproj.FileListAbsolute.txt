@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Kalıtım3-Encapsulation\Kalıtım3-Encapsulation\bin\Debug\Kalıtım3-Encapsulation.exe.config
+C:\Users\hp\source\repos\Kalıtım3-Encapsulation\Kalıtım3-Encapsulation\bin\Debug\Kalıtım3-Encapsulation.exe
+C:\Users\hp\source\repos\Kalıtım3-Encapsulation\Kalıtım3-Encapsulation\bin\Debug\Kalıtım3-Encapsulation.pdb
+C:\Users\hp\source\repos\Kalıtım3-Encapsulation\Kalıtım3-Encapsulation\obj\Debug\Kalıtım3-Encapsulation.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Kalıtım3-Encapsulation\Kalıtım3-Encapsulation\obj\Debug\Kalıtım3_Encapsulation.Form1.resources
+C:\Users\hp\source\repos\Kalıtım3-Encapsulation\Kalıtım3-Encapsulation\obj\Debug\Kalıtım3_Encapsulation.Properties.Resources.resources
+C:\Users\hp\source\repos\Kalıtım3-Encapsulation\Kalıtım3-Encapsulation\obj\Debug\Kalıtım3-Encapsulation.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Kalıtım3-Encapsulation\Kalıtım3-Encapsulation\obj\Debug\Kalıtım3-Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Kalıtım3-Encapsulation\Kalıtım3-Encapsulation\obj\Debug\Kalıtım3-Encapsulation.exe
+C:\Users\hp\source\repos\Kalıtım3-Encapsulation\Kalıtım3-Encapsulation\obj\Debug\Kalıtım3-Encapsulation.pdb

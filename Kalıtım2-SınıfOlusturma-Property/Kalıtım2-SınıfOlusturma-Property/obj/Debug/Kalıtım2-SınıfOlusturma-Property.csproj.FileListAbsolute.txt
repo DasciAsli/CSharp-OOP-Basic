@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Kalıtım2-SınıfOlusturma-Property\Kalıtım2-SınıfOlusturma-Property\bin\Debug\Kalıtım2-SınıfOlusturma-Property.exe.config
+C:\Users\hp\source\repos\Kalıtım2-SınıfOlusturma-Property\Kalıtım2-SınıfOlusturma-Property\bin\Debug\Kalıtım2-SınıfOlusturma-Property.exe
+C:\Users\hp\source\repos\Kalıtım2-SınıfOlusturma-Property\Kalıtım2-SınıfOlusturma-Property\bin\Debug\Kalıtım2-SınıfOlusturma-Property.pdb
+C:\Users\hp\source\repos\Kalıtım2-SınıfOlusturma-Property\Kalıtım2-SınıfOlusturma-Property\obj\Debug\Kalıtım2-SınıfOlusturma-Property.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Kalıtım2-SınıfOlusturma-Property\Kalıtım2-SınıfOlusturma-Property\obj\Debug\Kalıtım2_SınıfOlusturma_Property.Form1.resources
+C:\Users\hp\source\repos\Kalıtım2-SınıfOlusturma-Property\Kalıtım2-SınıfOlusturma-Property\obj\Debug\Kalıtım2_SınıfOlusturma_Property.Properties.Resources.resources
+C:\Users\hp\source\repos\Kalıtım2-SınıfOlusturma-Property\Kalıtım2-SınıfOlusturma-Property\obj\Debug\Kalıtım2-SınıfOlusturma-Property.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Kalıtım2-SınıfOlusturma-Property\Kalıtım2-SınıfOlusturma-Property\obj\Debug\Kalıtım2-SınıfOlusturma-Property.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Kalıtım2-SınıfOlusturma-Property\Kalıtım2-SınıfOlusturma-Property\obj\Debug\Kalıtım2-SınıfOlusturma-Property.exe
+C:\Users\hp\source\repos\Kalıtım2-SınıfOlusturma-Property\Kalıtım2-SınıfOlusturma-Property\obj\Debug\Kalıtım2-SınıfOlusturma-Property.pdb

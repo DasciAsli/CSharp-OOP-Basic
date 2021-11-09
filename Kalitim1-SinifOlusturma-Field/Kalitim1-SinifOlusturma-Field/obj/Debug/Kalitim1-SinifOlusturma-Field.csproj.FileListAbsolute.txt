@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Kalitim1-SinifOlusturma-Field\Kalitim1-SinifOlusturma-Field\bin\Debug\Kalitim1-SinifOlusturma-Field.exe.config
+C:\Users\hp\source\repos\Kalitim1-SinifOlusturma-Field\Kalitim1-SinifOlusturma-Field\bin\Debug\Kalitim1-SinifOlusturma-Field.exe
+C:\Users\hp\source\repos\Kalitim1-SinifOlusturma-Field\Kalitim1-SinifOlusturma-Field\bin\Debug\Kalitim1-SinifOlusturma-Field.pdb
+C:\Users\hp\source\repos\Kalitim1-SinifOlusturma-Field\Kalitim1-SinifOlusturma-Field\obj\Debug\Kalitim1-SinifOlusturma-Field.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Kalitim1-SinifOlusturma-Field\Kalitim1-SinifOlusturma-Field\obj\Debug\Kalitim1_SinifOlusturma_Field.Form1.resources
+C:\Users\hp\source\repos\Kalitim1-SinifOlusturma-Field\Kalitim1-SinifOlusturma-Field\obj\Debug\Kalitim1_SinifOlusturma_Field.Properties.Resources.resources
+C:\Users\hp\source\repos\Kalitim1-SinifOlusturma-Field\Kalitim1-SinifOlusturma-Field\obj\Debug\Kalitim1-SinifOlusturma-Field.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Kalitim1-SinifOlusturma-Field\Kalitim1-SinifOlusturma-Field\obj\Debug\Kalitim1-SinifOlusturma-Field.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Kalitim1-SinifOlusturma-Field\Kalitim1-SinifOlusturma-Field\obj\Debug\Kalitim1-SinifOlusturma-Field.exe
+C:\Users\hp\source\repos\Kalitim1-SinifOlusturma-Field\Kalitim1-SinifOlusturma-Field\obj\Debug\Kalitim1-SinifOlusturma-Field.pdb

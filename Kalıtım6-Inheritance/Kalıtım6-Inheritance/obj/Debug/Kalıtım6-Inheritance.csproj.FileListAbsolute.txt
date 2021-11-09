@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Kalıtım6-Inheritance\Kalıtım6-Inheritance\bin\Debug\Kalıtım6-Inheritance.exe.config
+C:\Users\hp\source\repos\Kalıtım6-Inheritance\Kalıtım6-Inheritance\bin\Debug\Kalıtım6-Inheritance.exe
+C:\Users\hp\source\repos\Kalıtım6-Inheritance\Kalıtım6-Inheritance\bin\Debug\Kalıtım6-Inheritance.pdb
+C:\Users\hp\source\repos\Kalıtım6-Inheritance\Kalıtım6-Inheritance\obj\Debug\Kalıtım6-Inheritance.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Kalıtım6-Inheritance\Kalıtım6-Inheritance\obj\Debug\Kalıtım6_Inheritance.Form1.resources
+C:\Users\hp\source\repos\Kalıtım6-Inheritance\Kalıtım6-Inheritance\obj\Debug\Kalıtım6_Inheritance.Properties.Resources.resources
+C:\Users\hp\source\repos\Kalıtım6-Inheritance\Kalıtım6-Inheritance\obj\Debug\Kalıtım6-Inheritance.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Kalıtım6-Inheritance\Kalıtım6-Inheritance\obj\Debug\Kalıtım6-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Kalıtım6-Inheritance\Kalıtım6-Inheritance\obj\Debug\Kalıtım6-Inheritance.exe
+C:\Users\hp\source\repos\Kalıtım6-Inheritance\Kalıtım6-Inheritance\obj\Debug\Kalıtım6-Inheritance.pdb

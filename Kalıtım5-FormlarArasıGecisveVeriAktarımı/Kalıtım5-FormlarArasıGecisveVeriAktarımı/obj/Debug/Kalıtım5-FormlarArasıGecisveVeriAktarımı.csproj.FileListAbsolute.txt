@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\Kalıtım5-FormlarArasıGecisveVeriAktarımı\Kalıtım5-FormlarArasıGecisveVeriAktarımı\bin\Debug\Kalıtım5-FormlarArasıGecisveVeriAktarımı.exe.config
+C:\Users\hp\source\repos\Kalıtım5-FormlarArasıGecisveVeriAktarımı\Kalıtım5-FormlarArasıGecisveVeriAktarımı\bin\Debug\Kalıtım5-FormlarArasıGecisveVeriAktarımı.exe
+C:\Users\hp\source\repos\Kalıtım5-FormlarArasıGecisveVeriAktarımı\Kalıtım5-FormlarArasıGecisveVeriAktarımı\bin\Debug\Kalıtım5-FormlarArasıGecisveVeriAktarımı.pdb
+C:\Users\hp\source\repos\Kalıtım5-FormlarArasıGecisveVeriAktarımı\Kalıtım5-FormlarArasıGecisveVeriAktarımı\obj\Debug\Kalıtım5-FormlarArasıGecisveVeriAktarımı.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Kalıtım5-FormlarArasıGecisveVeriAktarımı\Kalıtım5-FormlarArasıGecisveVeriAktarımı\obj\Debug\Kalıtım5_FormlarArasıGecisveVeriAktarımı.Form1.resources
+C:\Users\hp\source\repos\Kalıtım5-FormlarArasıGecisveVeriAktarımı\Kalıtım5-FormlarArasıGecisveVeriAktarımı\obj\Debug\Kalıtım5_FormlarArasıGecisveVeriAktarımı.Properties.Resources.resources
+C:\Users\hp\source\repos\Kalıtım5-FormlarArasıGecisveVeriAktarımı\Kalıtım5-FormlarArasıGecisveVeriAktarımı\obj\Debug\Kalıtım5-FormlarArasıGecisveVeriAktarımı.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Kalıtım5-FormlarArasıGecisveVeriAktarımı\Kalıtım5-FormlarArasıGecisveVeriAktarımı\obj\Debug\Kalıtım5-FormlarArasıGecisveVeriAktarımı.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Kalıtım5-FormlarArasıGecisveVeriAktarımı\Kalıtım5-FormlarArasıGecisveVeriAktarımı\obj\Debug\Kalıtım5-FormlarArasıGecisveVeriAktarımı.exe
+C:\Users\hp\source\repos\Kalıtım5-FormlarArasıGecisveVeriAktarımı\Kalıtım5-FormlarArasıGecisveVeriAktarımı\obj\Debug\Kalıtım5-FormlarArasıGecisveVeriAktarımı.pdb
+C:\Users\hp\source\repos\Kalıtım5-FormlarArasıGecisveVeriAktarımı\Kalıtım5-FormlarArasıGecisveVeriAktarımı\obj\Debug\Kalıtım5_FormlarArasıGecisveVeriAktarımı.Form2.resources
