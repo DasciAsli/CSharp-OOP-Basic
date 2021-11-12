@@ -20,7 +20,7 @@ namespace Kalıtım6_Inheritence2
 
         private void btnKadın_Click(object sender, EventArgs e)
         {
-            Kadın kadın1 = new Kadın("Asli", "Dasci", 28, true, "Dasci");
+            Kadın kadın1 = new Kadın("Ayse", "Yıldız", 28, true, "Yıldız");
             foreach (var item in kadın1.Listele())
             {
                 listListele.Items.Add(item);
