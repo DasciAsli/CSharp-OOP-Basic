@@ -20,13 +20,13 @@ namespace Kalıtım10_Polimorphism
 
         private void btnPoly_Click(object sender, EventArgs e)
         {
-            Insan asli = new Kadın();
-            asli.Ad = "Asli";
-            asli.Soyad = "Dasci";
-            asli.Yas = 28;
-            asli.MedeniHal = true;
+            Insan ayse = new Kadın();
+            ayse.Ad = "Ayse";
+            ayse.Soyad = "Yıldız";
+            ayse.Yas = 28;
+            ayse.MedeniHal = true;
 
-            MessageBox.Show("Asli nesnesinin Insan sınıfından işaret edilmesinin sonucunda Insan sınıfındaki fieldlarını kullanabildim.");
+            MessageBox.Show("Ayşe nesnesinin Insan sınıfından işaret edilmesinin sonucunda Insan sınıfındaki fieldlarını kullanabildim.");
 
 
             Kadın isik = new Kadın();
